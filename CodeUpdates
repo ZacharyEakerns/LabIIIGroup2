@@ -1,0 +1,2 @@
+EKG - breakpoints used to refresh all windows can graph in real time. May be too slow however
+Pulse Oximetry - use a if loop to compare current value to highest previously recorded value for peak detection. Other than that similair to ekg code
